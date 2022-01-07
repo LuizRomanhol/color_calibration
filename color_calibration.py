@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import math
-
+"esta mensagem vai pra internet"
 x_points = []
 y_points = []
 running = True
